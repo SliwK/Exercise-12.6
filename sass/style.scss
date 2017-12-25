@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+
+.container {
+  margin:  0 auto;
+  width: 800px;
+
+
+  table {
+    width: 100%;
+    th {
+      height: 40px;
+      vertical-align: middle;
+      text-align: center;
+      text-transform: uppercase;
+    }
+    th, td {
+      border: solid 1px gray;
+      padding: 10px;
+    }
+    img {
+      display: flex;
+      width: 160px;
+      height:auto;
+      padding: 5px;
+      margin: 0;
+    }
+  }
+
+}
+
+#countries-labels {
+  background-color: gray;
+  color: white;
+}
