@@ -24,6 +24,7 @@
     "glob-run": "^0.1.6",
     "jshint": "^2.9.5",
     "nu-html-checker": "^0.1.0",
+    "numeral": "^2.0.6",
     "onchange": "^3.2.1",
     "parallelshell": "^3.0.2"
   },
